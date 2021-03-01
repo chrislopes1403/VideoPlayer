@@ -24,3 +24,5 @@ yarn-error.log*
 
 
 /src/config/dev.js
+
+/img
